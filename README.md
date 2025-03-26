@@ -42,8 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devkitty21/devkitty21/output/snake.svg" alt="Snake animation" />
-[Snake animation](https://github.com/Devkitty21/snake-animation/blob/output/snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/Devkitty21/snake-animation/output/snake.svg)
 
 ###
